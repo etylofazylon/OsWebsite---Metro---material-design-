@@ -1,0 +1,14 @@
+<! DOCTYPE html>
+<Html>
+  <Head>
+    <title> Bootstrap 101 Szablon </ title>
+    <meta  name = "rzutni"  treœæ = "width = device-width, initial-scale = 1.0" >
+    <! - Bootstrap ->
+    <link  href = "css / bootstrap.min.css"  rel = "stylesheet"  mediów = "screen" >
+  </ Head>
+  <Body>
+    <h1> Hello, world! </ h1>
+    <script  src = "http://code.jquery.com/jquery.js" > </ script>
+    <script  src = "js / bootstrap.min.js" > </ script>
+  </ Body>
+</ Html>
